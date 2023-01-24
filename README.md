@@ -2,7 +2,10 @@
 
 This repository contains a list of my UX Design projects in Figma!
 
-<img align="center" src="screen.png"/>
+<img align="center" src="copycat.png"/>
+The image above shows the creation of an copy of the AllTrails app on iOS.
+
+Can you recognize which is the image from the original app and which is the copied version in Figma?
 
 <hr>
 <p align="center"> 
