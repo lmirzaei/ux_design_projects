@@ -12,6 +12,13 @@ This is an interactive Dropdown Menu component which I created to embed in my pr
 <img align="center" src="Dropdown_in_Figma.gif"/>
 </p>
 
+<br><br>
+As part of my UX Design coursework at Seattle University, I developed a mobile app experience for inventory tracking.
+This prototype demonstrates how to add a new item to the inventory.
+<p align="center">
+<img align="center" src="prototype_add_new_item.gif"/>
+</p>
+
 <hr>
 <p align="center"> 
   <b> Thank you for stopping by 🤗</b>
